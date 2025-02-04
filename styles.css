@@ -9,6 +9,7 @@
         /*Any screen resolution frmo 0-500px wide*/
         body{
             background-color: rgb(90, 9, 43);
+            font: size 130%;
         }
     }
     @media screen and (max-width:400px){
