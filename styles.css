@@ -1,0 +1,19 @@
+*{box-sizing: border-box;
+    }
+    body{
+        background-color: rgb(0, 95, 89);
+        color: whitesmoke;
+    }
+
+    @media screen and (max-width:500px){
+        /*Any screen resolution frmo 0-500px wide*/
+        body{
+            background-color: rgb(90, 9, 43);
+        }
+    }
+    @media screen and (max-width:400px){
+        body{
+            background-color: rgb(255, 233, 124);
+            color: black;
+        }
+    }
